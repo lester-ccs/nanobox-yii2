@@ -26,6 +26,7 @@ run.config:
       - xml
       - ctype
       - xmlwriter
+      - gd
 
   # Contents of these dirs to be cached inside of Nanobox
   cache_dirs:
